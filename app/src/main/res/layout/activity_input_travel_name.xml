@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.audacia.sample.MainActivity"
+    android:background="#00FFFF"
+    android:orientation="vertical">
+
+    <include layout="@layout/upper_box"/>
+
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top|center"
+        android:weightSum="1">
+
+        <RelativeLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="100dp"
+                android:background="#003300"
+                android:layout_marginTop="30dp"
+                android:layout_marginLeft="90dp"
+                android:text="Start"
+                android:textSize="50sp"
+                android:textColor="#fff"
+                android:textAlignment="center"
+                android:textAllCaps="false"/>
+
+            <RelativeLayout
+                android:layout_width="300dp"
+                android:layout_height="130dp"
+                android:layout_gravity="center"
+                android:background="@drawable/edit_box"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true">
+
+
+                <EditText
+                    android:layout_width="250dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="25dp"
+                    android:background="@drawable/edit_box"
+                    android:ems="10"
+                    android:hint="  input"
+                    android:id="@+id/editText" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:gravity="center"
+                    android:text="Please enter the travel name"
+                    android:textAlignment="center"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_gravity="center_horizontal|top"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+    <include layout="@layout/bottom_box"/>
+
+</LinearLayout>

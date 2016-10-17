@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="My Travel Diary"
+            android:text="Travel Assistant"
             android:textColor="#000"
             android:textAlignment="center"
             android:textSize="28sp"

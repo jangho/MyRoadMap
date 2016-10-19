@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Jan/android-sdks/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_09e87d657117e98ce2c07a275c07cc20340a446a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0c6a3aeae20f64a7be632e628437361745200428">
+        <dex dex="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d26dc4ed438c2341bb17a3f12908a7c36d97c27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_e98d7553a32ec9a5b7256a28158194c1f6359322/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1c51dac1c74ed89cdf2e59be5bd204b614bc8dec">
+        <dex dex="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b807a71770ed637fad1d9dc1c3a5981ca402165a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_f821d400401edc44e547388844676824ad2b35ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_03650e727014a685b3b3db90a0037f90e1d83af6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/libs/libDaumMapAndroid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b365841bba8bc2d592e4b22008885a6f0cd1c77d">
+        <dex dex="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/transforms/dex/debug/folders/1000/2/libDaumMapAndroid_da2c1c278392d67a6a494b9202ae10e1b663d668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_8e7be613782ded1e64815676398f4d8e8339d70f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/Jan/AndroidStudioProjects/MyRoadMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_1e0003ec45cdb71312f17ba49a9162c4cbadd6b5/classes.dex" />
+    </item>
+
+</items>
